@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c90379a7-776d-4f51-aea5-76f72f4fdc33" name="Default" comment="fixed logic to retrieve reviews on business profile. and configuration files to connect to clear db">
+    <list default="true" id="c90379a7-776d-4f51-aea5-76f72f4fdc33" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cs633_TermProject.iws" />
@@ -366,7 +366,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1447801751792</updated>
-      <workItem from="1493428067227" duration="632000" />
+      <workItem from="1493428067227" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="1. Added bootstrap as our css framekwork&#10;2. Created a layout template&#10;3. Created a starter file for new view files&#10;">
       <created>1447805740412</created>
@@ -438,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493428600693</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fixed logic to retrieve reviews on business profile. and configuration files to connect to clear db">
+      <created>1493428704992</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1493428704992</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="632000" />
+    <option name="totallyTimeSpent" value="658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1298" height="1042" extended-state="6" />
